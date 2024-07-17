@@ -1,0 +1,1 @@
+A GUI in Java. The game board is a grid of colorful squares we are calling "cells". The goal is to clear as many cells as possible before the colorful cells reach the bottom row. When the user clicks on a cell it will be cleared, along with adjacent cells that have the same color.
